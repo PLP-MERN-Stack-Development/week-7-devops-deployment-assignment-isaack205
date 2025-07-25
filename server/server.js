@@ -18,6 +18,7 @@ const io = new Server(server, {
     origin: ["http://localhost:5173", 'https://week-7-devops-deployment-assignment-l2g7.onrender.com'],
     methods: ['GET', 'POST'],
     credentials: true,
+    allowedHeaders: ['Content-Type, Authorization']
   },
 });
 
