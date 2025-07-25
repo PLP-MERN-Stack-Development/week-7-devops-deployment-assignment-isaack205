@@ -8,7 +8,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: process.env.CLIENT_URL || "http://localhost:5173" || 'https://week-7-devops-deployment-assignment-l2g7.onrender.com', // Allow your React app's origin
+    origin: "http://localhost:5173" || 'https://week-7-devops-deployment-assignment-l2g7.onrender.com', // Allow your React app's origin
     methods: ["GET", "POST", "PUT", "DELETE"]
   }
 });
