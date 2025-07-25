@@ -75,4 +75,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Render Documentation](https://render.com/docs)
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
-- [Netlify Documentation](https://docs.netlify.com/) 
+- [Netlify Documentation](https://docs.netlify.com/)
+
+## Live Demo
+
+- **Project Live URL:** [https://week-7-devops-deployment-assignment-l2g7.onrender.com](https://week-7-devops-deployment-assignment-l2g7.onrender.com)
